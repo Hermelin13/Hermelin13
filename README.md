@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am production support developer<br>Studied at Brno University of Technology - Information Technology<br>Currently studiing at Tomas Bata University in Zlín<br>I'am still doing sports - rowing, cycling, curling<br>On my profile you can see some uni projects, some small home projects and 3D printing stuff<br>
+I'am production support developer<br>Studied at Brno University of Technology - Information Technology<br>Currently studying at Tomas Bata University in Zlín<br>I'am still doing sports - rowing, cycling, curling<br>On my profile you can see some uni projects, websites, some small home projects and 3D printing stuff<br>
 
 
 ## 🌐 Socials:
